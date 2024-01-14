@@ -1,0 +1,12 @@
+name: dart_training
+description: Une brève description
+
+environment:
+  sdk: '^3.2.0'  # Ajustez cette ligne avec la version appropriée
+
+# Ajoutez vos dépendances ici si nécessaire
+# dependencies:
+
+dev_dependencies:
+  test: ^1.0.0
+
