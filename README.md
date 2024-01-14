@@ -1,7 +1,11 @@
 # Dart-training
 
 ## Prérequis
-- Installer Docker
+- Installer/avoir Docker
 
 ## Installation
-- make build
+- `make build`
+- `make run`
+
+## Tests
+- `make test`
